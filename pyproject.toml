@@ -1,0 +1,7 @@
+[project]
+name = "webapi"
+version = "0.1.0"
+description = "My parent workspace"
+
+[tool.uv.workspace]
+members = ["webapi"]
